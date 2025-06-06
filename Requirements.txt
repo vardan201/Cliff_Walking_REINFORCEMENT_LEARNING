@@ -1,0 +1,7 @@
+gym==0.26.2
+numpy==1.23.5
+opencv-python
+tqdm
+pickle5
+IPython
+Google colab
